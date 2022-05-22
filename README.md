@@ -1,2 +1,2 @@
 # Random-quote-machine
-Pressing button 'New quote' you can get a random quote to inspire yourself!
+Check https://codepen.io/ksalpern/pen/eYVRJGg to get a random quote to inspire yourself!
